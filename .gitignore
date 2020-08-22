@@ -1,0 +1,5 @@
+# virtual environment
+marketbook-venv
+
+*.pyc
+.ipynb_checkpoints
